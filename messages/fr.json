@@ -1,0 +1,204 @@
+{
+  "UI": {
+    "Logo": {
+      "alt": "Logo de Lenny TESTU--CHARPENTIER"
+    },
+    "ProjectCard": {
+      "viewProject": "Voir le projet"
+    },
+    "StatusLabel": {
+      "text": "Actuellement entrain de travailler sur Nexus et Evo"
+    }
+  },
+  "Layout": {
+    "Navigation": {
+      "about": "À propos",
+      "projects": "Projets",
+      "contact": "Contact"
+    },
+    "Footer": {
+      "legal": "Mentions légales"
+    },
+    "Contact": {
+      "title": "Me contacter",
+      "text": "Que ce soit pour une collaboration, partager une idée de projet ou simplement échanger, ma boîte mail est grande ouverte !",
+      "button": "M'envoyer un message"
+    }
+  },
+  "Pages": {
+    "HomePage": {
+      "Hero": {
+        "title": "Hey, moi c'est Lenny.",
+        "text": "J'ai 16 ans, et je passe la plupart de mon temps à apprendre et à développer des projets autour de l'informatique. Mon objectif à ce jour est de devenir ingénieur-entrepreneur.",
+        "primaryButton": "Me contacter",
+        "secondaryButton": "Voir mes projets"
+      },
+      "Projects": {
+        "title": "Mes projets",
+        "button": "Voir tous mes projets"
+      },
+      "About": {
+        "title": "À propos de moi",
+        "alt": "Illustration pour la section à propos de moi",
+        "text": "Je m'appelle Lenny TESTU--CHARPENTIER, et j'habite en Normandie dans le nord-ouest de la France. J'ai commencé à m'intéresser à l'ingénierie et au code à l'âge de 14 ans. Depuis, je n'ai pas arrêté d'apprendre plusieurs langages de programmation et frameworks, me permettant ainsi d'acquérir plusieurs compétences techniques malgré mon jeune âge. D'autre part, j'ai développé une grande curiosité pour les sciences et les maths, ainsi qu'une envie d'entreprendre. Mon avenir m'interroge encore beaucoup, c'est pourquoi aujourd'hui, je cherche à continuellement me développer et trouver ma voie.",
+        "button": "En savoir plus"
+      },
+      "Metadata": {
+        "title": "Accueil",
+        "description": "Site personnel de Lenny TESTU--CHARPENTIER, 16 ans, passionné de technologie, d'entrepreneuriat et de développement web. Découvrez ses projets, son parcours et comment le contacter."
+      }
+    },
+    "Projects": {
+      "title": "Tous mes projets",
+      "Metadata": {
+        "title": "Projets",
+        "description": "Découvrez tous les projets de Lenny TESTU--CHARPENTIER"
+      }
+    },
+    "Project": {
+      "link": "Voir le projet",
+      "goalsTitle": "Objectif du projet",
+      "skillsTitle": "Compétences développées",
+      "roleTitle": "Mon rôle et mes collaborateurs",
+      "nexus": {
+        "description": "Nexus est une association loi 1901 divisé en deux branches. D'une part, Nexus Community : Une communauté ouverte à tous, qui constitue un environnement pour échanger, apprendre, s'entraider et évoluer entouré de personnes ambitieuses. D'autre part, Nexus Team : Le noyau de Nexus, un cercle plus engagé qui réunit des membres impliqués pour construire des projets concrets ensemble, collaborer sérieusement et faire évoluer l'écosystème Nexus.",
+        "goal": "L'objectif de Nexus est de construire une communauté et un écosystème qui permettent à chacun de se développer, d'innover et de concrétiser ses idées. Nous voulons créer un environnement où les personnes ambitieuses peuvent se connecter, apprendre les unes des autres et collaborer pour construire des projets qui ont du sens.",
+        "skills": "Développement web (HTML, SCSS, JavaScript), gestion de communauté, organisation d'événements, communication et marketing.",
+        "role": "Lenny (Co-fondateur et développeur), Romain (Co-fondateur et développeur), Arthur (Responsable développement), Nixoo (Développeur), KL (Développeur)"
+      },
+      "Metadata": {
+        "title": "{name}",
+        "description": "Découvrez le projet de Lenny TESTU--CHARPENTIER"
+      }
+    },
+    "About": {
+      "Hero": {
+        "title": "À propos",
+        "text": "Hey, moi c'est Lenny, 16 ans. Cette page retrace mon parcours jusqu'à aujourd'hui, les différentes étapes qui m'ont amené jusqu'ici ainsi que les sujets qui occupent aujourd'hui une grande partie de mon temps. ",
+        "alt": "Illustration pour la section à propos de moi",
+        "primaryButton": "Me contacter",
+        "secondaryButton": "Découvrir mon parcours"
+      },
+      "Journey": {
+        "title": "Mon parcours",
+        "steps": [
+          {
+            "date": "2017 (7 ans)",
+            "title": "Mon enfance",
+            "text": "Très vite, à l'âge de 7 ans, on m'a initié aux jeux-vidéos et aux écrans. Dès lors, j'ai passé une grande partie de mon temps à jouer à différents jeux, allant jusqu'à parfois 14h par jour pendant les vacances. Je n'avais pas de passion particulière, je me laissais simplement porter."
+          },
+          {
+            "date": "2023 (13 ans)",
+            "title": "Un changement",
+            "text": "Un jour, les jeux-vidéos m'ont lassé, voir même pour être honnête, dégoûté. Pourtant, je n'avais envie de rien faire d'autre. Alors que j'étais perdu, j'ai commencé à faire du sport et à expérimenter plusieurs activités comme le dessin, la musique et la découverte de plusieurs sciences comme l'astronomie et l'informatique. Toute activité comportant un écran me repoussait."
+          },
+          {
+            "date": "2024 (14 ans)",
+            "title": "La découverte du code",
+            "text": "Lorsque j'étais en 4ème, j'ai découvert le code grâce à mon ami Romain qui m'a montré comment créer un site web. J'ai décidé d'explorer ce domaine, comme toute autre activité, et j'ai commencé à apprendre le HTML, le CSS et le JavaScript. Que ce soit l'aspect logique ou créatif, j'ai plutôt aimé ça, mais ce qui m'a fait surtout continué sont les possibilités infinies que le code offre. En effet, on peut créer à peu près tout ce que l'on veut avec du code, que ce soit un site web, une application mobile, un jeu-vidéo ou même une intelligence artificielle. J'ai commencé à me projeter dans le futur en imaginant les projets que je pourrais créer et les problèmes que je pourrais résoudre grâce au code."
+          },
+          {
+            "date": "2025 (15 ans)",
+            "title": "2025 jusqu'à aujourd'hui",
+            "text": "Depuis, j'ai continué sur cette voie et j'ai commencé à développer plusieurs projets avec mon copaing Romain (oui le même). J'ai développé plusieurs compétences, en code mais aussi en design et en gestion de projets. J'ai aussi commencé à m'intéresser à l'entrepreneuriat, en lisant plusieurs livres sur le sujet. D'autre part, je suis dans une période où je me questionne beaucoup sur mon avenir, c'est pourquoi je cherche à continuellement apprendre et découvrir de nouvelles choses. Le code n'est probablement pas une finalité pour moi."
+          }
+        ]
+      },
+      "Passions": {
+        "title": "Mes passions",
+        "engineeringAndSciences": {
+          "title": "L'ingénierie et les sciences",
+          "text": "Depuis que j'ai découvert le code, j'ai développé une fascination pour tout ce qui permet de comprendre comment le monde fonctionne et comment résoudre des problèmes. Que ce soit à travers l'informatique, les mathématiques, la physique ou d'autres domaines scientifiques, j'aime apprendre de nouveaux concepts. J'apprécie particulièrement le fait d'innover et être utile."
+        },
+        "entrepreneurship": {
+          "title": "L'entrepreneuriat",
+          "text": "Je pense que l'entrepreneuriat est la meilleure manière d'innover et de créer des choses quand on l'associe avec l'ingénierie. On détient une certaine liberté, on peut s'exprimer. De plus, réaliser des projets est gratifiant et l'aspect compétitif est super intéressant."
+        },
+        "personalDevelopment": {
+          "title": "Le développement personnel",
+          "text": "Depuis que j'ai arrêter les jeux-vidéos, j'ai eu envie de changer pleins d'aspects de moi-même. J'ai alors développé un grand intérêt pour le développement personnel : sport, apprendre, productivité, etc. Me développer est maintenant mon principal objectif, et j'y prends beaucoup de plaisir."
+        },
+        "adventureAndTravel": {
+          "title": "L'aventure et les voyages",
+          "text": "J'ai toujours eu un côté d'aventurier : j'adore découvrir et vivre des expériences. Passer des journées en montagne, faire du camping, voyager dans des pays étrangers, etc. sont des choses que j'aime faire. Même si je n'ai pas encore eu l'occasion de voyager beaucoup, j'espère pouvoir le faire plus à l'avenir."
+        }
+      },
+      "Metadata": {
+        "title": "À propos",
+        "description": "En savoir plus sur Lenny TESTU--CHARPENTIER, son parcours, ses passions et comment le contacter."
+      }
+    },
+    "Legal": {
+      "Hero": {
+        "title": "Mentions légales",
+        "text": "Conformément aux dispositions des articles 6-III et 19 de la Loi n°2004-575 du 21 juin 2004 pour la Confiance dans l'économie numérique, dite L.C.E.N., et à la Loi n°78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, les présentes mentions légales sont portées à la connaissance des utilisateurs du site <link>https://lennytc.me</link>."
+      },
+      "Infos": {
+        "title": "1. Informations légales",
+        "text": "Le site <link>{url}</link> est un portfolio présentant les projets et compétences de Lenny TESTU--CHARPENTIER.<br></br><br></br>Il est édité par Lenny TESTU--CHARPENTIER, personne physique résidant en France. Conformément à l'article 6-III-2 de la Loi n°2004-575 (LCEN), l'éditeur a choisi de conserver l'anonymat de son adresse personnelle. Ses coordonnées complètes ont été communiquées à l'hébergeur Vercel Inc."
+      },
+      "Editor": {
+        "title": "2. Directeur de la publication",
+        "text": "Le directeur de la publication du site <link>{url}</link> est Lenny TESTU--CHARPENTIER, joignable à l'adresse email suivante : <mail>{email}</mail>."
+      },
+      "Host": {
+        "title": "3. Hébergeur du site",
+        "text": "Le site <link>{url}</link> est hébergé par la société Vercel Inc., dont le siège social est situé : 440 N Barranca Ave #4133, Covina, CA 91723, États-Unis.<br></br><br></br>Vous pouvez contacter l'hébergeur par les moyens suivants :",
+        "phone": "Téléphone : {number}",
+        "website": "Site web : <link>https://vercel.com</link>",
+        "email": "Email : <link>privacy@vercel.com</link> (pour les questions de données personnelles)"
+      },
+      "Data": {
+        "title": "4. Données personnelles",
+        "text": "Les données collectées (nom, email) via les moyens de contact du site sont traitées exclusivement pour répondre à vos demandes de collaboration ou d'information. Elles sont conservées pour une durée maximale de 3 ans après le dernier contact.<br></br><br></br>Conformément à la Loi n°78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, les utilisateurs du site <link>{url}</link> disposent d'un droit d'accès, de rectification et de suppression des données personnelles les concernant. Pour exercer ce droit, veuillez contacter Lenny TESTU--CHARPENTIER à l'adresse email suivante : <mail>{email}</mail>."
+      },
+      "Cookies": {
+        "title": "5. Cookies",
+        "text": "Le site <link>{url}</link> n'utilise aucun cookie de traçage ou de profilage nécessitant un consentement préalable. Seuls des cookies techniques nécessaires au fonctionnement du site ou des mesures d'audience anonymisées peuvent être utilisés."
+      },
+      "Property": {
+        "title": "6. Propriété intellectuelle",
+        "text": "Tous les contenus présents sur le site <link>{url}</link>, y compris les textes, images, logos, vidéos et autres éléments, sont protégés par les lois sur la propriété intellectuelle et sont la propriété exclusive de Lenny TESTU--CHARPENTIER ou de ses partenaires, sauf indication contraire. Toute reproduction, distribution, modification ou utilisation de ces contenus sans autorisation préalable est strictement interdite.",
+        "resourcesTitle": "Ressources tierces",
+        "resourcesIntro": "Ce site utilise des bibliothèques d'icônes externes dont les licences imposent l'attribution ou le maintien des notices de copyright :",
+        "mitIcons": {
+          "title": "Feather Icons",
+          "text": "Ces ressources sont sous Licence MIT. Ces éléments peuvent être utilisés, copiés, modifiés et redistribués selon les termes de la licence MIT, sous réserve de conserver le copyright et la notice de licence :<br></br><br></br>Copyright (c) Cole Bemis (Feather Icons).<br></br><br></br><italic>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br></br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br></br>THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</italic>"
+        },
+        "lucideIcons": {
+          "title": "Lucide Icons",
+          "text": "ISC License<br></br><br></br>Copyright (c) 2026 Lucide Icons and Contributors<br></br><br></br>Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.<br></br><br></br>THE SOFTWARE IS PROVIDED \"AS IS\" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE."
+        },
+        "brands": {
+          "title": "Icônes représentant des marques",
+          "text": "Certaines icônes représentent des logos ou marques déposées appartenant à des tiers (ex: GitHub, LinkedIn, etc.). Leur utilisation sur ce site est strictement illustrative et n'implique aucun partenariat."
+        }
+      },
+      "Responsibility": {
+        "title": "7. Responsabilité",
+        "text": "Lenny TESTU--CHARPENTIER ne saurait être tenu responsable des dommages directs ou indirects résultant de l'accès ou de l'utilisation du site <link>{url}</link>, y compris les dommages causés par des virus ou autres éléments nuisibles."
+      },
+      "Law": {
+        "title": "8. Loi applicable",
+        "text": "Les présentes mentions légales sont régies par la loi française. Tout litige relatif à l'interprétation ou à l'exécution des présentes mentions légales sera soumis aux tribunaux compétents de Paris, France."
+      },
+      "Metadata": {
+        "title": "Mentions légales",
+        "description": "Découvrez les mentions légales du site de Lenny TESTU--CHARPENTIER, y compris les informations sur l'éditeur, l'hébergeur et les conditions d'utilisation."
+      }
+    },
+    "NotFound": {
+      "title": "Page non trouvée",
+      "text": "La page que vous recherchez n'existe pas ou n'est plus disponible. Vous pouvez retourner à l'accueil pour continuer la navigation.",
+      "button": "Retourner à l'accueil"
+    },
+    "Error": {
+      "title": "Oups, une erreur est survenue.",
+      "button": "Réessayer"
+    }
+  },
+  "DefaultMetadata": {
+    "title": "Lenny TESTU--CHARPENTIER",
+    "description": "Site personnel de Lenny TESTU--CHARPENTIER, 16 ans, passionné de technologie, d'entrepreneuriat et de développement web. Découvrez ses projets, son parcours et comment le contacter."
+  }
+}

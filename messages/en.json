@@ -1,0 +1,204 @@
+{
+  "UI": {
+    "Logo": {
+      "alt": "Logo of Lenny TESTU--CHARPENTIER"
+    },
+    "ProjectCard": {
+      "viewProject": "View project"
+    },
+    "StatusLabel": {
+      "text": "Currently working on Nexus and Evo"
+    }
+  },
+  "Layout": {
+    "Navigation": {
+      "about": "About",
+      "projects": "Projects",
+      "contact": "Contact"
+    },
+    "Footer": {
+      "legal": "Legal Notice"
+    },
+    "Contact": {
+      "title": "Contact me",
+      "text": "Whether it's for a collaboration, sharing a project idea or just exchanging, my email inbox is always open!",
+      "button": "Send me a message"
+    }
+  },
+  "Pages": {
+    "HomePage": {
+      "Hero": {
+        "title": "Hi, I'm Lenny.",
+        "text": "I'm 16 years old and I spend most of my time learning and developing projects around computer science. My goal today is to become an engineer-entrepreneur.",
+        "primaryButton": "Contact me",
+        "secondaryButton": "View my projects"
+      },
+      "Projects": {
+        "title": "My projects",
+        "button": "View all my projects"
+      },
+      "About": {
+        "title": "About me",
+        "alt": "Illustration for the about me section",
+        "text": "I'm Lenny TESTU--CHARPENTIER, and I live in Normandy in the northwest of France. I started getting interested in engineering and coding at the age of 14. Since then, I haven't stopped learning several programming languages and frameworks, allowing me to acquire several technical skills despite my young age. On the other hand, I have developed a great curiosity for sciences and mathematics, as well as a desire to entrepreneurship. My future still questions me a lot, which is why today I am looking to continuously develop myself and find my path.",
+        "button": "Learn more"
+      },
+      "Metadata": {
+        "title": "Home",
+        "description": "Welcome to the personal website of Lenny TESTU--CHARPENTIER, a 16-year-old passionate about entrepreneurship, technology and web development. Discover his projects, his journey and how to contact him."
+      }
+    },
+    "Projects": {
+      "title": "All my projects",
+      "Metadata": {
+        "title": "Projects",
+        "description": "Discover all the projects of Lenny TESTU--CHARPENTIER"
+      }
+    },
+    "Project": {
+      "link": "View project",
+      "goalsTitle": "Project Goal",
+      "skillsTitle": "Skills Developed",
+      "roleTitle": "My Role and Collaborators",
+      "nexus": {
+        "description": "Nexus is a 1901 association divided into two branches. On the one hand, Nexus Community: A community open to everyone, which constitutes an environment for exchanging, learning, helping each other and evolving surrounded by ambitious people. On the other hand, Nexus Team: The core of Nexus, a more engaged circle that brings together involved members to build concrete projects together, collaborate seriously and develop the Nexus ecosystem.",
+        "goal": "The goal of Nexus is to build a community and an ecosystem that allow everyone to develop, innovate and materialize their ideas. We want to create an environment where ambitious people can connect, learn from each other and collaborate to build meaningful projects.",
+        "skills": "Web development (HTML, SCSS, JavaScript), community management, event organization, communication and marketing.",
+        "role": "Lenny (Co-founder and developer), Romain (Co-founder and developer), Arthur (Development manager), Nixoo (DDeveloper), KL (DDeveloper)"
+      },
+      "Metadata": {
+        "title": "{name}",
+        "description": "Discover the project of Lenny TESTU--CHARPENTIER"
+      }
+    },
+    "About": {
+      "Hero": {
+        "title": "About",
+        "text": "Hey, I'm Lenny, 16 years old. This page traces my journey up to today, the different steps that have brought me here and the topics that occupy a large part of my time nowadays.",
+        "alt": "Illustration for the section about me",
+        "primaryButton": "Contact me",
+        "secondaryButton": "Discover my journey"
+      },
+      "Journey": {
+        "title": "My Journey",
+        "steps": [
+          {
+            "date": "2017 (7 years old)",
+            "title": "My early years",
+            "text": "Very quickly, at the age of 7, I was introduced to video games and screens. From then on, I spent a large part of my time playing different games, going up to sometimes 14 hours per day during holidays. I had no particular passion, I just let myself be carried away."
+          },
+          {
+            "date": "2023 (13 years old)",
+            "title": "A change",
+            "text": "One day, video games tired me out, or to be honest, disgusted me. However, I didn't want to do anything else. While I was lost, I started doing sports and experimenting with several activities like drawing, music and discovering various sciences like astronomy and computer science. Any activity involving a screen repulsed me."
+          },
+          {
+            "date": "2024 (14 years old)",
+            "title": "The discovery of coding",
+            "text": "When I was in 8th grade, I discovered coding thanks to my friend Romain who showed me how to create a website. I decided to explore this field, like any other activity, and I started learning HTML, CSS and JavaScript. Whether it's the logical or creative aspect, I liked it, but what made me continue were the infinite possibilities that coding offers. Indeed, we can create almost anything we want with code, whether it's a website, a mobile application, a video game or even artificial intelligence. I started projecting myself into the future by imagining the projects I could create and the problems I could solve thanks to coding."
+          },
+          {
+            "date": "2025 (15 years old)",
+            "title": "2025 until today",
+            "text": "Since then, I have continued on this path and started developing several projects with my friend Romain (yes, the same one). I have developed several skills, in coding but also in design and project management. I have also started to be interested in entrepreneurship, by reading several books on the subject. On the other hand, I am in a period where I question myself a lot about my future, which is why I am constantly trying to learn and discover new things. Coding is probably not a finality for me."
+          }
+        ]
+      },
+      "Passions": {
+        "title": "My passions",
+        "engineeringAndSciences": {
+          "title": "Engineering and Sciences",
+          "text": "Since I discovered coding, I have developed a fascination for everything that helps me understand how the world works and how to solve problems. Whether through computer science, mathematics, physics or other scientific fields, I like learning new concepts. I particularly appreciate the aspect of innovating and being useful."
+        },
+        "entrepreneurship": {
+          "title": "Entrepreneurship",
+          "text": "I think that entrepreneurship is the best way to innovate and create things when it is associated with engineering. We have a certain freedom, we can express ourselves. Moreover, realizing projects is rewarding and the competitive aspect is very interesting."
+        },
+        "personalDevelopment": {
+          "title": "Personal Development",
+          "text": "Since I stopped playing video games, I have wanted to change many aspects of myself. I have then developed a great interest in personal development: sports, learning, productivity, etc. Developing myself is now my main goal, and I take a lot of pleasure in it."
+        },
+        "adventureAndTravel": {
+          "title": "Adventure and Travel",
+          "text": "I have always had an adventurous side: I love discovering and living experiences. Spending days in the mountains, going camping, traveling to foreign countries, etc. are things I like to do. Even if I haven't had the opportunity to travel much yet, I hope to be able to do so in the future."
+        }
+      },
+      "Metadata": {
+        "title": "About",
+        "description": "Learn more about Lenny TESTU--CHARPENTIER, his journey, his passions and how to contact him."
+      }
+    },
+    "Legal": {
+      "Hero": {
+        "title": "Legal Notice",
+        "text": "In accordance with the provisions of articles 6-III and 19 of the Law n°2004-575 of June 21, 2004 for Confidence in the Digital Economy, known as L.C.E.N., and the Law n°78-17 of January 6, 1978 relating to computer science, files and freedoms, the present legal notices are brought to the attention of users of the site <link>https://lennytc.me</link>."
+      },
+      "Infos": {
+        "title": "1. Legal Information",
+        "text": "The site <link>{url}</link> is a portfolio presenting Lenny TESTU--CHARPENTIER's projects and skills.<br></br><br></br>It is edited by Lenny TESTU--CHARPENTIER, a physical person residing in France. In accordance with article 6-III-2 of the Law n°2004-575 (LCEN), the publisher has chosen to maintain the anonymity of his personal address. His complete contact information has been provided to the host Vercel Inc."
+      },
+      "Editor": {
+        "title": "2. Publication Director",
+        "text": "The publication director of the site <link>{url}</link> is Lenny TESTU--CHARPENTIER, reachable at the following email address : <mail>{email}</mail>."
+      },
+      "Host": {
+        "title": "3. Site Host",
+        "text": "The site <link>{url}</link> is hosted by the company Vercel Inc., whose main office is located at : 440 N Barranca Ave #4133, Covina, CA 91723, United States.<br></br><br></br>You can contact the host using the following means :",
+        "phone": "Phone : {number}",
+        "website": "Website : <link>https://vercel.com</link>",
+        "email": "Email : <link>privacy@vercel.com</link> (for personal data questions)"
+      },
+      "Data": {
+        "title": "4. Personal Data",
+        "text": "The data collected (name, email) via the site's contact methods is processed exclusively to respond to your collaboration or information requests. They are retained for a maximum duration of 3 years after the last contact.<br></br><br></br>In accordance with Law n°78-17 of January 6, 1978 relating to computer science, files and freedoms, users of the site <link>{url}</link> have the right of access, rectification and deletion of their personal data. To exercise this right, please contact Lenny TESTU--CHARPENTIER at the following email address : <mail>{email}</mail>."
+      },
+      "Cookies": {
+        "title": "5. Cookies",
+        "text": "The site <link>{url}</link> does not use any tracking or profiling cookies requiring prior consent. Only necessary technical cookies for the site's operation or anonymized audience measurements may be used."
+      },
+      "Property": {
+        "title": "6. Intellectual Property",
+        "text": "All content present on the site <link>{url}</link>, including texts, images, logos, videos and other elements, are protected by intellectual property laws and are the exclusive property of Lenny TESTU--CHARPENTIER or his partners, unless otherwise indicated. Any reproduction, distribution, modification or use of these contents without prior authorization is strictly prohibited.",
+        "resourcesTitle": "Third-party resources",
+        "resourcesIntro": "This site uses external icon libraries whose licenses require attribution or maintenance of copyright notices :",
+        "mitIcons": {
+          "title": "Feather Icons",
+          "text": "The icons from Feather Icons are used under the MIT License, which allows free use, modification and distribution as long as the original copyright notice and license are included : :<br></br><br></br>Copyright (c) Cole Bemis (Feather Icons).<br></br><br></br><italic>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br></br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br></br>THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</italic>"
+        },
+        "lucideIcons": {
+          "title": "Lucide Icons",
+          "text": "ISC License<br></br><br></br>Copyright (c) 2026 Lucide Icons and Contributors<br></br><br></br>Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.<br></br><br></br>THE SOFTWARE IS PROVIDED \"AS IS\" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE."
+        },
+        "brands": {
+          "title": "Icons representing third-party brands",
+          "text": "Some icons represent logos or trademarks belonging to third parties (ex: GitHub, LinkedIn, etc.). Their use on this site is strictly illustrative and does not imply any partnership."
+        }
+      },
+      "Responsibility": {
+        "title": "7. Responsibility",
+        "text": "Lenny TESTU--CHARPENTIER cannot be held responsible for any direct or indirect damages resulting from access to or use of the site <link>{url}</link>, including damages caused by viruses or other harmful elements."
+      },
+      "Law": {
+        "title": "8. Applicable Law",
+        "text": "The present legal notices are governed by French law. Any dispute relating to the interpretation or execution of the present legal notices shall be submitted to the competent courts of Paris, France."
+      },
+      "Metadata": {
+        "title": "Legal Notice",
+        "description": "Discover the legal notice of Lenny TESTU--CHARPENTIER's website, including information about the publisher, host and usage conditions."
+      }
+    },
+    "NotFound": {
+      "title": "Page not found",
+      "text": "The page you are looking for does not exist or is no longer available. You can return to the homepage to continue browsing.",
+      "button": "Return to homepage"
+    },
+    "Error": {
+      "title": "Oups, something went wrong",
+      "button": "Try again"
+    }
+  },
+  "DefaultMetadata": {
+    "title": "Lenny TESTU--CHARPENTIER",
+    "description": "Welcome to the personal website of Lenny TESTU--CHARPENTIER, a 16-year-old passionate about entrepreneurship, technology and web development. Discover his projects, his journey and how to contact him."
+  }
+}

@@ -1,0 +1,13 @@
+@theme {
+  --color-primary: oklch(20.5% 0 0);
+  --color-timeline: oklch(43.9% 0 0);
+
+  --color-bg: oklch(97% 0 0);
+  --color-surface: oklch(98.5% 0 0);
+  --color-border: oklch(87% 0 0);
+
+  --color-text: oklch(14.5% 0 0);
+  --color-title-muted: oklch(64% 0 0);
+  --color-text-muted: oklch(55.6% 0 0);
+  --color-text-inverse: oklch(98.5% 0 0);
+}
